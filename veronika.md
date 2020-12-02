@@ -4,16 +4,12 @@ date: '2020-08-07T15:33:00+02:00'
 status: publish
 permalink: /poezii/veronika
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1360
 thumbnail: ../../uploads/2020/08/c550ebaf-548e-40f1-bf09-91f86994ddd1.jpg
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '403'
+excerpt: ''
 ---
 mireasa mea din vise  
 pe scurt, dar tot îți spun  

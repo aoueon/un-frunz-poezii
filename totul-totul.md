@@ -4,25 +4,17 @@ date: '2018-04-16T20:44:20+02:00'
 status: publish
 permalink: /poezii/totul-totul
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 464
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Cădere liberă'
 poem_painting_name:
     - 'Călugărul lângă mare'
 poem_painting_author:
     - 'Caspar David Friedrich'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '243'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 aud cum picură pianul  
 mi se cutremură jurnalul  

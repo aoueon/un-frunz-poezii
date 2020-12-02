@@ -4,25 +4,17 @@ date: '2019-08-24T07:30:43+02:00'
 status: publish
 permalink: /poezii/xyz
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 854
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Capăt
 poem_painting_name:
     - 'Paris la nuit'
 poem_painting_author:
     - 'Charles Courtney Curran'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '408'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 aici a fost odată un izvor  
 acum decât o urmă de nimicnicie  

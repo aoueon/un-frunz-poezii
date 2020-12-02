@@ -4,15 +4,11 @@ date: '2020-02-29T10:21:40+02:00'
 status: publish
 permalink: /poezii/vocea-in-tacere
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1206
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '158'
+excerpt: ''
 ---
 de ce să îți explic?  
 cuvinte răsucite!  

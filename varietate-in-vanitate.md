@@ -4,25 +4,17 @@ date: '2017-02-13T15:12:44+02:00'
 status: publish
 permalink: /poezii/varietate-in-vanitate
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 90
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Automatizare
 poem_painting_name:
     - 'Marea Piramidă din Giza'
 poem_painting_author:
     - 'Ivan Aivazovsky'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '190'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 oare eu sunt eu  
 cum nimeni nu-i  

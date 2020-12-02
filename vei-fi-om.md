@@ -4,25 +4,17 @@ date: '2018-04-15T23:31:58+02:00'
 status: publish
 permalink: /poezii/vei-fi-om
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 455
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Interese vanitoase'
 poem_painting_name:
     - 'Prințesa Tuvstarr'
 poem_painting_author:
     - 'John Bauer'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '390'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 cine ți-a călcat așa pe cap  
 cu forma tălpii de pătrat?  

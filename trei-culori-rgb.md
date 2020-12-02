@@ -4,25 +4,17 @@ date: '2017-12-01T07:00:21+02:00'
 status: publish
 permalink: /poezii/trei-culori-rgb
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 264
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Filtrul tehnologic'
 poem_painting_name:
     - 'Coadă la pâine (editată)'
 poem_painting_author:
     - 'Nicolae Tonița'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '412'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 trei culori cunosc pe lume  
 curcubeu din trei culori  

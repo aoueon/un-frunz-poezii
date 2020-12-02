@@ -4,25 +4,17 @@ date: '2018-06-13T22:18:45+02:00'
 status: publish
 permalink: /poezii/vinocenta
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 539
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Merit '
 poem_painting_name:
     - 'Portret van Lizzie Ansingh'
 poem_painting_author:
     - 'Thérèse Schwartze'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '218'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 pietrele-s în linie puse  
 și încheieturile sunt unse  

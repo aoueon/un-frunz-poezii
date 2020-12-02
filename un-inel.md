@@ -4,15 +4,11 @@ date: '2020-09-12T21:00:02+02:00'
 status: publish
 permalink: /poezii/un-inel
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1370
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '84'
+excerpt: ''
 ---
 dacă astăzi două inimi legi  
 leagă-le-n afara timpului  

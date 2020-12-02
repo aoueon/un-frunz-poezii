@@ -4,25 +4,17 @@ date: '2017-03-11T20:10:11+02:00'
 status: publish
 permalink: /poezii/un-alt-cer
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 133
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Independență
 poem_painting_name:
     - 'Stânca din Gibraltar'
 poem_painting_author:
     - 'Ivan Aivazovsky'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '198'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 ai să tragi la nesfârșit  
 de greșelile și-abaterile vieții  
