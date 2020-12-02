@@ -4,25 +4,17 @@ date: '2017-05-28T13:11:02+02:00'
 status: publish
 permalink: /poezii/o-mila-de-mile
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 182
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - 'Curriculum vitae'
 poem_painting_name:
     - 'Câmp de grâu cu ciori'
 poem_painting_author:
     - 'Vincent van Gogh'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '268'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 am zburat înspre nimicuri  
 am fugit de orice ochi  

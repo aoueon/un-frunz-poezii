@@ -4,25 +4,17 @@ date: '2019-04-22T19:38:29+02:00'
 status: publish
 permalink: /poezii/postesc
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 817
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Marginal
 poem_painting_name:
     - Self-portrait
 poem_painting_author:
     - 'Vincent van Gogh'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '384'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 postesc să-mi fie foame  
 postesc să-mi fie dor  

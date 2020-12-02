@@ -4,25 +4,17 @@ date: '2019-01-23T15:48:13+02:00'
 status: publish
 permalink: /poezii/a-plange
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 704
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Despărțire
 poem_painting_name:
     - 'Kateryna Olia'
 poem_painting_author:
     - 'Taras Shevchenko'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '295'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 când am aflat că ai murit  
 desprins pe șinele de sânge  

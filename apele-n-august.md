@@ -4,25 +4,17 @@ date: '2018-08-15T20:29:14+02:00'
 status: publish
 permalink: /poezii/apele-n-august
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 568
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Amânare
 poem_painting_name:
     - 'Dante și Béatrice'
 poem_painting_author:
     - 'Odilon Redon'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '654'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 în August apele n-au gust  
 curg ca Crișul, repede  

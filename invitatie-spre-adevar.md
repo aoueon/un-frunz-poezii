@@ -4,25 +4,17 @@ date: '2019-10-12T11:51:19+02:00'
 status: publish
 permalink: /poezii/invitatie-spre-adevar
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 868
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Indisponibil
 poem_painting_name:
     - 'Chestnut Trees'
 poem_painting_author:
     - 'Paul Cézanne'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '417'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 ce fac eu,  
 e-aproape poezie  

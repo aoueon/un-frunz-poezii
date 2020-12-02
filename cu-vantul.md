@@ -4,25 +4,17 @@ date: '2019-04-13T14:06:19+02:00'
 status: publish
 permalink: /poezii/cu-vantul
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 791
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Ploaie cu soare'
 poem_painting_name:
     - Reverie
 poem_painting_author:
     - 'Charles Amable Lenoir'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '490'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 rabdă, nu te molipsi  
 e o cale lungă să devii  

@@ -4,25 +4,17 @@ date: '2017-08-06T20:24:27+02:00'
 status: publish
 permalink: /poezii/nu-esti-cu-mine
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 221
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Luca 23:34'
 poem_painting_name:
     - 'Moartea lui Actaeon'
 poem_painting_author:
     - Tițian
-poem_painting_mask:
-    - ''
 post_views_count:
     - '255'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 iubire în oglindă nuanțat  
 risc de justă ironie  

@@ -4,15 +4,11 @@ date: '2020-03-23T21:13:02+02:00'
 status: publish
 permalink: /poezii/nici-macar-lumea
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1236
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '127'
+excerpt: ''
 ---
 auzi? se-aude și de la tine?  
 e-o șoaptă ușoară, ușoară în vânt  

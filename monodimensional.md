@@ -4,25 +4,17 @@ date: '2018-05-11T11:42:25+02:00'
 status: publish
 permalink: /poezii/monodimensional
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 483
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Viața străină'
 poem_painting_name:
     - 'Hélène de Troie'
 poem_painting_author:
     - 'Gaston Bussière'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '272'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 mereu te văd schițând ceva  
 uneori un zâmbet, alteori o stea  

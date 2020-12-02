@@ -4,17 +4,11 @@ date: '2020-11-21T20:16:33+02:00'
 status: publish
 permalink: /poezii/rece-cald-si-negru-alb
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1379
-pcat: []
-ptag: []
-_yoast_wpseo_title:
-    - '“%%title%% ” de %%sitename%%'
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '52'
+excerpt: ''
 ---
 distanța din priviri de aruncat  
 eu de la capătul nord-estului  

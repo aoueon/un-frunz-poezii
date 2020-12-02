@@ -4,25 +4,17 @@ date: '2018-10-25T13:41:28+02:00'
 status: publish
 permalink: /poezii/eve-din-fantani
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 610
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Rătăcire
 poem_painting_name:
     - Nu
 poem_painting_author:
     - 'Jean Metzinger'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '375'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 perle nude, Eve din fântâni  
 săvârșesc nespuse și nevrute  

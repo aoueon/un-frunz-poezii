@@ -4,25 +4,17 @@ date: '2018-06-01T01:56:49+02:00'
 status: publish
 permalink: /poezii/axaj
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 499
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Destin-ație
 poem_painting_name:
     - 'Fuga de furtună'
 poem_painting_author:
     - 'Konstantin Makovsky'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '239'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 precum soarele se mișcă în axaj  
 pe degetul a toate făuritelor  

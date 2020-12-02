@@ -4,19 +4,11 @@ date: '2020-02-06T19:27:22+02:00'
 status: publish
 permalink: /poezii/silueta-bestiei-din-carte
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1183
-pcat: []
-ptag: []
-_yoast_wpseo_title:
-    - '%%title%% %%page%%'
-_yoast_wpseo_metadesc:
-    - 'nu e prea liniște acum? îmi simt și inima, și sângele nu simt decât neliniște deși e liniște…'
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '371'
+excerpt: ''
 ---
 nu e prea liniște acum?  
 îmi simt și inima, și sângele  

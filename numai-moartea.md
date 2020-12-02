@@ -4,25 +4,17 @@ date: '2017-06-10T11:54:50+02:00'
 status: publish
 permalink: /poezii/numai-moartea
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 96
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Orizontul
 poem_painting_name:
     - Nenuphar
 poem_painting_author:
     - 'Isaac Levitan'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '217'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 adevărul n-are-origine  
 nici autor, nici punct slab  

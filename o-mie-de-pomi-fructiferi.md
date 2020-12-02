@@ -4,25 +4,17 @@ date: '2019-01-20T12:37:51+02:00'
 status: publish
 permalink: /poezii/o-mie-de-pomi-fructiferi
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 689
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - '(p)Omul vieții'
 poem_painting_name:
     - 'Landschap met molen'
 poem_painting_author:
     - 'Paul Gabriël'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '526'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 dintre-o mie de pomi fructiferi  
 nici unul nu era cu fructe bune  

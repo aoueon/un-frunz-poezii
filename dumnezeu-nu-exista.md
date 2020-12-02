@@ -4,27 +4,17 @@ date: '2020-01-03T14:36:00+02:00'
 status: publish
 permalink: /poezii/dumnezeu-nu-exista
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 947
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Indisponibil
 poem_painting_name:
     - ''
 poem_painting_author:
     - ''
-poem_painting_mask:
-    - ''
 post_views_count:
     - '390'
-_yoast_wpseo_title:
-    - '%%title%% %%page%%'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 astăzi am spus în listă  
 de 33 de ori măcar  

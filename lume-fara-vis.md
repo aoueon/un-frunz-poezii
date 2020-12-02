@@ -4,25 +4,17 @@ date: '2017-02-16T11:53:18+02:00'
 status: publish
 permalink: /poezii/lume-fara-vis
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 78
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Fructul interzis'
 poem_painting_name:
     - 'Trenul Murnau și castelul'
 poem_painting_author:
     - 'Vasile Kandinsky'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '281'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 ai avut intenții rele  
 ’n-timp ce zmeul îl zburai  

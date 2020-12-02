@@ -4,15 +4,11 @@ date: '2020-05-01T21:48:41+02:00'
 status: publish
 permalink: /poezii/imaginea
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1316
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '116'
+excerpt: ''
 ---
 alerg pereții plini de îngeri  
 dar ce-i imaginea când tu doar suferi?  

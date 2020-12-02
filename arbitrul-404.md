@@ -4,25 +4,17 @@ date: '2018-09-23T23:52:04+02:00'
 status: publish
 permalink: /poezii/arbitrul-404
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 593
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Sfori
 poem_painting_name:
     - 'Ispita și căderea Evei'
 poem_painting_author:
     - 'William Blake'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '471'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 când prim cuvânt ai zis  
 în proastă imitație  

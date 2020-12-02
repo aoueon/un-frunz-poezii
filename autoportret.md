@@ -4,25 +4,17 @@ date: '2018-02-16T15:17:58+02:00'
 status: publish
 permalink: /poezii/autoportret
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 13
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - Recunoștință
 poem_painting_name:
     - 'Portretul lui Lev Tolstoi'
 poem_painting_author:
     - 'Leonid Pasternak'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '340'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 nu-i iubire pic în mine  
 am crezut dar n-a rămas  

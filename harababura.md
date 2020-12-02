@@ -4,25 +4,17 @@ date: '2017-05-20T15:14:39+02:00'
 status: publish
 permalink: /poezii/harababura
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 171
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Haine de înger'
 poem_painting_name:
     - Demon
 poem_painting_author:
     - 'Mikhail Vrubel'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '160'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 în miracol am sperat  
 cu tot ce sunt și nu voi fi  

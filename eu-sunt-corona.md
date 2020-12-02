@@ -4,16 +4,11 @@ date: '2020-03-19T19:39:59+02:00'
 status: publish
 permalink: /poezii/eu-sunt-corona
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1232
-pcat: []
-ptag:
-    - coronavirus
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '270'
+excerpt: ''
 ---
 TE CONDAMN, OMENIRE
 

@@ -4,25 +4,17 @@ date: '2017-02-28T22:41:56+02:00'
 status: publish
 permalink: /poezii/cenusa-din-pamant
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 116
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - 'Cel Ce Este'
 poem_painting_name:
     - 'Mormintele vechilor eroi'
 poem_painting_author:
     - 'Caspar D. Friedrich'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '217'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 priveam aprinsă–lumânarea  
 înălța șoptiri din arătarea-și  

@@ -4,32 +4,17 @@ date: '2019-12-27T02:09:35+02:00'
 status: publish
 permalink: /poezii/sa-te-intorci-la-mine
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 879
-pcat:
-    - 'Poezii de dragoste'
-ptag:
-    - distanta
-    - intalnire
-    - inviere
-    - iubire
-    - moarte
-    - timp
-poem_featured:
-    - '0'
 poem_idea:
     - 'Surplus de dor'
 poem_painting_name:
     - 'The Prairie Child'
 poem_painting_author:
     - 'Edmund Franklin Ward'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '481'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 mai departe de-atât de departe  
 acolo ești tu, inima mea  

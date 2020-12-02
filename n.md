@@ -4,25 +4,17 @@ date: '2017-09-07T12:14:16+02:00'
 status: publish
 permalink: /poezii/n
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 239
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Ochi larg închiși'
 poem_painting_name:
     - 'Pană de pasăre-foc'
 poem_painting_author:
     - 'Elena Gorokhova'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '261'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 de la lună pân’ la soare  
 opt minute de lumină  

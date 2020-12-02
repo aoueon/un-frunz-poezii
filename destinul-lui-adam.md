@@ -4,25 +4,17 @@ date: '2017-05-25T01:16:00+02:00'
 status: publish
 permalink: /poezii/destinul-lui-adam
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 177
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Sclavie '
 poem_painting_name:
     - 'Și noi încercăm'
 poem_painting_author:
     - 'Nicholas Roerich'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '212'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 cum se face că-omenirea  
 stă în casă și trudește?  

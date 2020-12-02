@@ -4,25 +4,17 @@ date: '2018-06-11T18:20:03+02:00'
 status: publish
 permalink: /poezii/renastere
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 526
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - mother!
 poem_painting_name:
     - Caracatița
 poem_painting_author:
     - 'Victor Hugo'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '387'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 comoara ta eram nisip  
 în lut am dat eu naștere  

@@ -4,25 +4,17 @@ date: '2019-03-17T18:30:24+02:00'
 status: publish
 permalink: /poezii/camera-de-luat-vederi
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 754
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Aparență de blestem'
 poem_painting_name:
     - 'Self-portrait with fiddling Death'
 poem_painting_author:
     - 'Arnold Böcklin'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '257'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 când m-au prins la colțul vieții  
 am strigat către destin:  

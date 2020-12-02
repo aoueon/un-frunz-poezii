@@ -4,25 +4,17 @@ date: '2019-01-12T05:10:34+02:00'
 status: publish
 permalink: /poezii/nu-sunt-robot
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 679
-pcat: []
-ptag: []
 post_views_count:
     - '327'
-poem_featured:
-    - '0'
 poem_idea:
     - reCAPTCHA
 poem_painting_name:
     - 'Girl with a Mandolin'
 poem_painting_author:
     - 'Pablo Picasso'
-poem_painting_mask:
-    - ''
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 NU SUNT ROBOT  
 am declarat făr’ să ezit  

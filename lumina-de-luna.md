@@ -4,34 +4,17 @@ date: '2017-01-29T02:16:08+02:00'
 status: publish
 permalink: /poezii/lumina-de-luna
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 73
-pcat:
-    - 'Poezii despre moarte'
-ptag:
-    - abandonare
-    - disperare
-    - filosofie
-    - filozofie
-    - iertare
-    - luna
-    - moarte
-    - soare
-poem_featured:
-    - '1'
 poem_idea:
     - Absolvire
 poem_painting_name:
     - Speranță
 poem_painting_author:
     - 'George Frederic Watts'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '390'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 abandonat în gol de gheață  
 urme în cercuri pe față  

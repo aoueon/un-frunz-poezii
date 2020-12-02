@@ -4,25 +4,17 @@ date: '2017-09-04T13:00:25+02:00'
 status: publish
 permalink: /poezii/oglinda-in-durere
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 230
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Răscumpărare
 poem_painting_name:
     - 'Noapte înstelată peste Rhône'
 poem_painting_author:
     - 'Vincent van Gogh'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '266'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 sunt treaz în miez de noapte  
 mă plimb prin neagră parte  

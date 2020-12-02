@@ -4,25 +4,17 @@ date: '2018-03-30T00:01:45+02:00'
 status: publish
 permalink: /poezii/mi-a-soptit-un-trandafir
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 19
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - 'Fi(r)ul omului'
 poem_painting_name:
     - 'Scenă din viața unui birocrat'
 poem_painting_author:
     - 'Nikolay Koshelev'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '574'
-_yoast_wpseo_content_score:
-    - '60'
+excerpt: ''
 ---
 ușor bătut în ușă  
 mă-ntreb dintre cenușă  

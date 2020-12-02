@@ -4,25 +4,17 @@ date: '2018-09-13T18:21:40+02:00'
 status: publish
 permalink: /poezii/dispari-o-data
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 581
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Univers paralel'
 poem_painting_name:
     - 'Girl Reading a Letter'
 poem_painting_author:
     - 'Johannes Vermeer'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '283'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 un om te-ntreabă de prietenie  
 și-i ești prieten patru ani  

@@ -4,25 +4,17 @@ date: '2019-04-17T21:15:10+02:00'
 status: publish
 permalink: /poezii/666-de-botezuri
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 811
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Înecare
 poem_painting_name:
     - 'De Kamperveenderij'
 poem_painting_author:
     - 'Paul Gabriel'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '257'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 am intrat în multe ape  
 zile-n rând, tot sperând  

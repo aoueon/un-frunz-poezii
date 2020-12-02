@@ -4,25 +4,17 @@ date: '2017-06-03T17:25:29+02:00'
 status: publish
 permalink: /poezii/alb-astru
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 189
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - Metafizicul
 poem_painting_name:
     - 'Impresie, răsărit de soare'
 poem_painting_author:
     - 'Claude Monet'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '311'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 în cădere nu mă mișc  
 zac, plutesc, rezist  

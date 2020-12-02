@@ -4,15 +4,11 @@ date: '2020-04-22T21:36:52+02:00'
 status: publish
 permalink: /poezii/dis-spera
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 1242
-pcat: []
-ptag: []
-_yoast_wpseo_content_score:
-    - '90'
 post_views_count:
     - '152'
+excerpt: ''
 ---
 de ce spre stele mâna o întinzi?  
 de ce în ceruri ochii ți-s aprinși?  

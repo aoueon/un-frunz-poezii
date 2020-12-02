@@ -4,25 +4,17 @@ date: '2018-04-20T10:35:31+02:00'
 status: publish
 permalink: /poezii/prin-ochii-lacrimii
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 469
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - 'Lumina întrupată'
 poem_painting_name:
     - 'Ce a văzut Domnul'
 poem_painting_author:
     - 'James Tissot'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '241'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 din cer o lacrimă răsare  
 și cade, cade, cade  

@@ -4,25 +4,17 @@ date: '2019-07-12T08:26:22+02:00'
 status: publish
 permalink: /poezii/ok-somn
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 848
-pcat: []
-ptag: []
-poem_featured:
-    - '0'
 poem_idea:
     - Somnie
 poem_painting_name:
     - 'The Last Drop'
 poem_painting_author:
     - 'Judith Leyster'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '437'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 club rotund de vrăjitoare  
 nu pe față, în subsoluri  

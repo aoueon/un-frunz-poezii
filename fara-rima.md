@@ -4,25 +4,17 @@ date: '2018-02-11T15:19:52+02:00'
 status: publish
 permalink: /poezii/fara-rima
 author: 'Raoul S.'
-excerpt: ''
 type: poezie
 id: 17
-pcat: []
-ptag: []
-poem_featured:
-    - '1'
 poem_idea:
     - Retrăire
 poem_painting_name:
     - 'Drumul prizonierilor de război'
 poem_painting_author:
     - 'Vasily Vereshchagin'
-poem_painting_mask:
-    - ''
 post_views_count:
     - '301'
-_yoast_wpseo_content_score:
-    - '90'
+excerpt: ''
 ---
 munți noi pașii mi-au furat  
 râuri noi buzele mi-au umezit  
